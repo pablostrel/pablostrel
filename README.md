@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 -->
 
 
-[https://img.shields.io/twitter/follow/pablastrel?color=%231DA1F2&label=%40pablastrel&logo=twitter&logoColor=%231DA1F2&style=flat-square](https://twitter.com/pablastrel)
+[![Twitter Follow](https://img.shields.io/twitter/follow/pablastrel?color=%231DA1F2&label=%40pablastrel&logo=twitter&logoColor=%231DA1F2&style=flat-square)](https://twitter.com/pablastrel)
 
 [linkedin]: https://www.linkedin.com/in/pablo-strelchenia/
