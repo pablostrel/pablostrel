@@ -1,5 +1,5 @@
 ### 🔥Hi there, I'm [Pablo Strelchenia][Linkedin]👋
-######🎓 I’m student in Information Systems Engineering at _Universidad Tecnólogica Nacional_, La plata, Argentina.
+#####🎓 I’m student in Information Systems Engineering at _Universidad Tecnólogica Nacional_, La plata, Argentina.
 
 - 🔭 I’m currently working on  
 - 🌱 I’m currently learning Kotlin, [Diplomatura Web Full Stack][FullStack] at UTN F.R.R.e and Web dev.
@@ -17,5 +17,5 @@
 [FullStack]: https://www.elearning-total.com/campus/pluginfile.php/347666/mod_resource/content/1/Programa_Diplomatura_Programacion_Fullstack.pdf
 [linkedin]: https://www.linkedin.com/in/pablo-strelchenia/
 
-##### 🚀 Skills
+#### 🚀 Skills
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /><img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /><img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /><img align="left" width="30px" alt="CorelDraw" src="https://seeklogo.com/images/C/corel-draw-2020-logo-270FEE465B-seeklogo.com.png" /><img align="left" width="30px" alt="CorelDraw" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png" /><img align="left" width="30px" alt="Vuejs" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" /><img align="left" width="30px" alt="Vuejs" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" /> 
