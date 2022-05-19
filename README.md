@@ -1,7 +1,7 @@
 ## 🔥Hi there, I'm [Pablo Strelchenia][Linkedin]👋
 #### 🎓 I’m student in Information Systems Engineering at _Universidad Tecnólogica Nacional_, La plata, Argentina.
 
-- 🔭 I’m currently working on  
+- 🔭 I’m currently working on the creation of my portfolio.
 - 🌱 I’m currently learning Kotlin, [Diplomatura Web Full Stack][FullStack] at UTN F.R.R.e and Web dev.
 
 - 📫 How to reach me: pablostrel@gmail.com
