@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with
 - 💬 Ask me about   -->
 
-[<img width="30px" src=https://cdn.icon-icons.com/icons2/2429/PNG/512/whatsapp_logo_icon_147205.png /> ][WhatsApp][<img width="30px" src=https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579542-yumminkysocialmedia22_83078.png />][Twitter] [![Twitter Follow](https://img.shields.io/twitter/follow/pablastrel?color=%231DA1F2&label=%40pablastrel&logo=twitter&logoColor=%231DA1F2&style=flat-square)](https://twitter.com/pablastrel)  
+[<img width="20px" src=https://cdn.icon-icons.com/icons2/2429/PNG/512/whatsapp_logo_icon_147205.png /> ][WhatsApp][<img width="20px" src=https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579542-yumminkysocialmedia22_83078.png />][Twitter] [![Twitter Follow](https://img.shields.io/twitter/follow/pablastrel?color=%231DA1F2&label=%40pablastrel&logo=twitter&logoColor=%231DA1F2&style=flat-square)](https://twitter.com/pablastrel)  
 
 [WhatsApp]:https://api.whatsapp.com/send/?phone=542214371059&text&app_absent=0
 [Twitter]: https://twitter.com/pablastrel
