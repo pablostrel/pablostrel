@@ -17,6 +17,3 @@
 ### 📬 Connect
 [LinkedIn](https://www.linkedin.com/in/pablo-strelchenia/) / [pablostrel@gmail.com](mailto:pablostrel@gmail.com)
 
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablastrel&layout=compact&theme=dark&hide_border=true&langs_count=5)
